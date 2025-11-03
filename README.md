@@ -1,4 +1,8 @@
 # SSPS-Copyright-Vault-2
+🧩 Repo 2 — YouTube Observation & Documentation Register
+(Public IP Vault – Social Media Sub-Repository 1)
+
+
 Comprehensive IP Stack Functions List (Derived from RBGA + Mint-to-Logic™ site materials)
 
 🛡️ SSPS IP Stack License & Enforcement Agreement
